@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ainix-dev
-- 👀 I’m interested in Laravem Flutter & IOT
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Laravel Flutter & IOT
+- 🌱 I’m currently learning Flutter, firebase and vueJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
