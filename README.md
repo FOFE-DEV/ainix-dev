@@ -2,7 +2,7 @@
 - 👀 I’m interested in Laravel Flutter & IOT
 - 🌱 I’m currently learning Flutter, firebase and vueJs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 fofe_b@sygalin.com/blondeaufoe00@gmail.com
 
 <!---
 ainix-dev/ainix-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
