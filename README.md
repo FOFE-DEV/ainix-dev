@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Flutter, firebase and vueJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 fofe_b@sygalin.com/blondeaufoe00@gmail.com
+- 👀  my website me.fofe.cm
 
 <!---
 ainix-dev/ainix-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
